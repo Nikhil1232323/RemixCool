@@ -1,0 +1,184 @@
+body{
+  text-align: center;
+
+}
+.menu{
+    top: 10px ;
+    right: 30px;
+    margin-right: 5px;
+    z-index: 10;
+    list-style: none;
+    background: linear-gradient(yellow 0%,green 100%);
+}
+li{
+    display:inline;
+    margin-left: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    color: White ;
+    margin-right: 5px ;
+    font-family: cursive;
+}
+li:hover{
+
+       font-size: 20px;
+    background: linear-gradient(yellow 0%,green 100%);
+    width: 10px;
+}
+#home{
+
+position: absolute;
+height: 800px;
+color: black;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+opacity: 0.83;
+display: table;
+width: 100%;
+height:100%;
+z-index: 9;
+}
+#img1{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  border:5px solid black ;
+}
+h1{
+  color: black;
+  font-family: cursive;
+}
+h3{
+  font-family: cursive;
+}
+p{
+  text-align: center;
+  padding: 20px ;
+  font-size: 20px ;
+  font-family: cursive;
+}
+#Bio{
+  background:#FFEFD5 ;
+}
+#img2{
+  margin-top: 18px ;
+  border:5px solid black;
+}
+#img4{
+
+border: 5px solid black ;
+}
+#img3{
+border: 5px solid black ;
+}
+#MyWork{
+  background-color:#FFEFD5;
+}
+#img5{
+  width: 100px;
+  border: 5px solid black;
+}
+#img5:hover{
+  width: 200px ;
+}
+#Contact{
+  width: 100%;
+  background-color:white;
+}
+#GM_1{
+  margin-top: 5px ;
+}
+.div_1{
+  background-color: firebrick;
+  height: 350;
+}
+#img6{
+  border: 5px solid black;
+  width: 250px;
+}
+h2{
+  font-family: cursive;
+}
+#img6:hover {
+  width: 290px ;
+}
+#img7{
+  border: 5px solid black;
+  width: 250px;
+}
+#img7:hover {
+  width: 290px ;
+}
+#img8{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img9{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img10{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img11{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#Gallery{
+  background-color: peachpuff;
+}
+#img12{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img13{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img14{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img15{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#img16{
+  width: 190px;
+  height: 190px;
+  border: 18px solid lightblue;
+}
+#btn1{
+  width: 190px;
+  height: 50px;
+  border: 5px solid lightblue;
+  background-color: peru;
+  color: deepskyblue;
+}
+#btn2{
+  width: 190px;
+  height: 50px;
+  border: 5px solid lightblue;
+  background-color: peru;
+  color: deepskyblue;
+  margin-bottom: 20px;
+}
+#btn1:hover{
+  width:200;
+  cursor: pointer;
+}
+#btn2:hover{
+  width:200;
+  cursor: pointer;
+}
